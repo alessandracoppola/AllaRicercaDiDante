@@ -1,0 +1,15 @@
+ html, body {
+  width: 1920px;
+  height: 1080px;
+  margin: 0;
+  padding: 0;
+  background-position: center center;
+  background-repeat: no-repeat;
+  }
+.cornice {
+  width: 150%;
+  height:150%;
+  background-image: url("sfondosito.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
