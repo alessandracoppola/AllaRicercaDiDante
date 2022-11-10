@@ -231,8 +231,8 @@ function preload() {
   game.load.image('scena2', 'sprites/scena2.png');
   game.load.image('scena3', 'sprites/scena3.jpg');
   game.load.image('paginacrediti', 'sprites/creditsdef.jpg');
-	game.load.image('finale1', 'sprites/finalePerde.png');
-	game.load.image('finale2', 'sprites/finaleVince.jpg');
+	game.load.image('finale1', 'sprites/FinalePerde.png');
+	game.load.image('finale2', 'sprites/FinaleVince.jpg');
 
 //pulsanti sito
 	game.load.image('bottonestoria', 'sprites/pulsantestoria.png');
